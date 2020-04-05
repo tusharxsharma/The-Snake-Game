@@ -6,4 +6,5 @@
 * DOWN ARROW - DOWN
 * LEFT ARROW - LEFT 
 * RIGHT ARROW - RIGHT
+[Run Game](https://rawgit.com/tusharxsharma/The-Snake-Game/master/Snakegame.html)
  
